@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="GLSH.h" />
+    <ClInclude Include="GLSH_Camera.h" />
+    <ClInclude Include="GLSH_Image.h" />
+    <ClInclude Include="GLSH_Math.h" />
+    <ClInclude Include="GLSH_Mesh.h" />
+    <ClInclude Include="GLSH_Prefabs.h" />
+    <ClInclude Include="GLSH_Shaders.h" />
+    <ClInclude Include="GLSH_System.h" />
+    <ClInclude Include="GLSH_Text.h" />
+    <ClInclude Include="GLSH_Texture.h" />
+    <ClInclude Include="GLSH_Util.h" />
+    <ClInclude Include="GLSH_Vertex.h" />
+    <ClInclude Include="tinyxml2.h" />
+    <ClInclude Include="GLSH_App.h" />
+    <ClInclude Include="GLSH_Event.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GLSH_Camera.cpp" />
+    <ClCompile Include="GLSH_Image.cpp" />
+    <ClCompile Include="GLSH_Math.cpp" />
+    <ClCompile Include="GLSH_Mesh.cpp" />
+    <ClCompile Include="GLSH_Prefabs.cpp" />
+    <ClCompile Include="GLSH_Shaders.cpp" />
+    <ClCompile Include="GLSH_System.cpp" />
+    <ClCompile Include="GLSH_Text.cpp" />
+    <ClCompile Include="GLSH_Texture.cpp" />
+    <ClCompile Include="GLSH_Util.cpp" />
+    <ClCompile Include="GLSH_Vertex.cpp" />
+    <ClCompile Include="tinyxml2.cpp" />
+    <ClCompile Include="GLSH_App.cpp" />
+    <ClCompile Include="GLSH_Event.cpp" />
+  </ItemGroup>
+</Project>
